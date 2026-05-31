@@ -52,9 +52,9 @@ I ship.
 <td width="50%" valign="top">
 
 ### 📒 ClearSplit
-**Financial operating system for GCC short-term-rental operators.** Ledger correctness, owner statements, trust accounting, reconciliation.
+**The information layer for GCC short-term-rental operators.** Ledger correctness, owner statements, PMS integrations, reconciliation, advisory.
 
-`Ledger-first` · `PMS adapters` · `GCC-native`
+`Information-first` · `PMS adapters` · `GCC-native`
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ I ship.
 
 - Shipping **Sawt for Mac 0.2.0** (signed, notarized, in-app auto-update).
 - Fine-tuning the cleanup stage so dialect-specific WER drops on real-world Khaleeji.
-- Wiring **trust accounting** into ClearSplit so STR operators stop touching guest funds by accident.
+- Tightening **ledger correctness** in ClearSplit so STR operators get owner statements they can trust without re-keying anything.
 - **SWARM v2:** broadening the source-agnostic adapter layer.
 
 ## What I work on
@@ -105,6 +105,16 @@ GCC product             ·  privacy-by-design, PDPL/GDPR, sovereign deployment
 ## Background
 
 `Microsoft` · `LinkedIn` · `Deliveroo` · currently leading enterprise web + AI at **NEOM**.
+
+## On GitHub
+
+<div align="center">
+
+<img alt="Sandeep's GitHub stats" height="160" src="https://github-readme-stats.vercel.app/api?username=sunnybhara&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=059669&icon_color=2DD4BF&text_color=c9d6cf&bg_color=0a1f15&ring_color=2DD4BF" />
+&nbsp;
+<img alt="Top languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnybhara&layout=compact&hide_border=true&langs_count=8&title_color=059669&text_color=c9d6cf&bg_color=0a1f15&hide=html,css" />
+
+</div>
 
 ---
 
