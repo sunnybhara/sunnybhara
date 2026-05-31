@@ -43,10 +43,10 @@ I ship.
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ SWARM
-**Multi-agent narrative-intelligence platform.** Real-time monitoring, community clustering, strategic analysis across many sources.
+### 🛰️ [SWARM](https://github.com/sunnybhara/swarm)
+**Multi-agent narrative intelligence.** A swarm of specialised agents (orchestrator + crawler + sentinel + strategist + intel + discovery) for sovereign and enterprise teams in the Gulf.
 
-`Multi-agent` · `Louvain clustering` · `Live SSE`
+`Multi-agent` · `By-invitation` · `GCC-native`
 
 </td>
 <td width="50%" valign="top">
@@ -62,6 +62,8 @@ I ship.
 
 ### Also public
 
+[`swarm`](https://github.com/sunnybhara/swarm) — multi-agent narrative intelligence (private platform, shopfront repo)
+&nbsp;·&nbsp;
 [`cctv-analytics-mvp`](https://github.com/sunnybhara/cctv-analytics-mvp) — privacy-preserving venue analytics (FastAPI + YOLO11 + InsightFace)
 &nbsp;·&nbsp;
 [`docs`](https://github.com/sunnybhara/docs) — NAWA developer documentation, source of [developers.trynawa.com](https://developers.trynawa.com)
