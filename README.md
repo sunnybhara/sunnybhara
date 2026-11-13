@@ -2,10 +2,15 @@
 
 # Sandeep Bhara
 
-### Building AI products for the Arab world.
+### Enterprise AI Builder | Product & GTM | Applied AI
 
-On-device inference. Multi-agent orchestration. Hardened AI infrastructure.
-I ship.
+**Senior Forward Deployed Engineer, Applied AI at HUMAIN · Founder of NAWA**
+
+I build applied AI products and contribute features to proactive agent systems, connecting hands-on engineering with product and commercial judgement.
+
+Working in Riyadh, Saudi Arabia. Home base: Dubai, UAE.
+
+[Website & case studies](https://www.sandeepbhara.com) · [LinkedIn](https://www.linkedin.com/in/sandeepbhara/)
 
 <br/>
 
@@ -36,7 +41,7 @@ I ship.
 ### 💬 [NAWA](https://trynawa.com)
 **AI comment management for creators.** Arabic-first: dialect detection, intent classification, replies in the creator's own voice. Live at [trynawa.com](https://trynawa.com).
 
-`MENA-first` · `IBM ALLaM` · `YouTube live`
+`MENA-first` · `ALLaM` · `YouTube live`
 
 </td>
 </tr>
@@ -62,7 +67,9 @@ I ship.
 
 ### Also public
 
-[`swarm`](https://github.com/sunnybhara/swarm) — multi-agent narrative intelligence (private platform, shopfront repo)
+[`claude-starter`](https://github.com/sunnybhara/claude-starter) — my public Claude Code working method: gated skills, a read-only auditor, and hooks for destructive commands
+&nbsp;·&nbsp;
+[`swarm`](https://github.com/sunnybhara/swarm) — public architecture overview of a private multi-agent platform
 &nbsp;·&nbsp;
 [`cctv-analytics-mvp`](https://github.com/sunnybhara/cctv-analytics-mvp) — privacy-preserving venue analytics (FastAPI + YOLO11 + InsightFace)
 &nbsp;·&nbsp;
@@ -72,12 +79,14 @@ I ship.
 
 ---
 
-## Now
+## Current focus
 
-- Shipping **Sawt for Mac 0.2.0** (signed, notarized, in-app auto-update).
-- Fine-tuning the cleanup stage so dialect-specific WER drops on real-world Khaleeji.
-- Tightening **ledger correctness** in ClearSplit so STR operators get owner statements they can trust without re-keying anything.
-- **SWARM v2:** broadening the source-agnostic adapter layer.
+- **Forward deployed engineering:** turning enterprise needs into working AI systems.
+- **Proactive agents:** contributing features to a proactive agent system, separate from my SWARM and NAWA work.
+- **Voice and applied AI:** Arabic dictation, conversational interfaces, workflows, compute and LLM-as-a-service.
+- **Physical and digital systems:** smart-city work involving BIM/IFC models and HVAC system tracking. Client details stay private.
+
+The projects on this page reflect my wider portfolio, not a claim that every project or technology is part of my HUMAIN role.
 
 ## What I work on
 
@@ -106,7 +115,9 @@ GCC product             ·  privacy-by-design, PDPL/GDPR, sovereign deployment
 
 ## Background
 
-`Microsoft` · `LinkedIn` · `Deliveroo` · currently leading enterprise web + AI at **NEOM**.
+My earlier career spans marketing, product, GTM and commercial leadership, including Microsoft, LinkedIn, Deliveroo and NEOM. I moved into hands-on applied AI engineering, bringing that enterprise and customer context into how I build.
+
+Today: **Senior Forward Deployed Engineer, Applied AI at HUMAIN** and **Founder of NAWA**. The public work here provides a technical view; my [website](https://www.sandeepbhara.com) and [LinkedIn](https://www.linkedin.com/in/sandeepbhara/) provide the wider career story.
 
 ## On GitHub
 
