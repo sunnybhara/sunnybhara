@@ -121,13 +121,7 @@ Today: **Senior Forward Deployed Engineer, Applied AI at HUMAIN** and **Founder 
 
 ## On GitHub
 
-<div align="center">
-
-<img alt="Sandeep's GitHub stats" height="160" src="https://github-readme-stats.vercel.app/api?username=sunnybhara&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=059669&icon_color=2DD4BF&text_color=c9d6cf&bg_color=0a1f15&ring_color=2DD4BF" />
-&nbsp;
-<img alt="Top languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnybhara&layout=compact&hide_border=true&langs_count=8&title_color=059669&text_color=c9d6cf&bg_color=0a1f15&hide=html,css" />
-
-</div>
+[Browse my public repositories](https://github.com/sunnybhara?tab=repositories) · [View my contribution activity](https://github.com/sunnybhara#year-list-container)
 
 ---
 
